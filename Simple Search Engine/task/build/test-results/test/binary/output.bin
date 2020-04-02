@@ -2,9 +2,16 @@
 Start test 1[0m
 >1
 >John
-	Not found
+>1
+'>this text will definitely be no match
 [1;31m
 Start test 2[0m
 >3
 >john smith smith@gmail.com
-	Not found
+%>John lock john_lock@somecompany.com
+">help me iamaprogrammer@gmail.com
+>4
+>john
+>Somecompany
+>@
+'>this text will definitely be no match

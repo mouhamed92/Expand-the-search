@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SimpleSearchEngineTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-04-02T08:49:45" hostname="DESKTOP-21TQR6S" time="0.53">
+<testsuite name="SimpleSearchEngineTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-04-02T19:22:35" hostname="DESKTOP-21TQR6S" time="0.473">
   <properties/>
-  <testcase name="start" classname="SimpleSearchEngineTest" time="0.53">
-    <failure message="java.lang.AssertionError: Wrong answer in test #2&#10;&#10;Can't parse your output. Please, make sure your output format matches with one in the example.&#10;&#10;Please find below the output of your program during this failed test.&#10;Note that the '&gt;' character indicates the beginning of the input line.&#10;&#10;---&#10;&#10;&gt;3&#10;&gt;john smith smith@gmail.com&#10;Not found" type="java.lang.AssertionError">java.lang.AssertionError: Wrong answer in test #2
+  <testcase name="start" classname="SimpleSearchEngineTest" time="0.473">
+    <failure message="java.lang.AssertionError: Exception in test #2&#10;&#10;java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3&#13;&#10;&#9;at search.Main.main(Main.java:25)&#10;&#10;Please find below the output of your program during this failed test.&#10;Note that the '&gt;' character indicates the beginning of the input line.&#10;&#10;---&#10;&#10;&gt;3&#10;&gt;john smith smith@gmail.com&#10;&gt;John lock john_lock@somecompany.com&#10;&gt;help me iamaprogrammer@gmail.com&#10;&gt;4&#10;&gt;john&#10;&gt;Somecompany&#10;&gt;@&#10;&gt;this text will definitely be no match" type="java.lang.AssertionError">java.lang.AssertionError: Exception in test #2
 
-Can't parse your output. Please, make sure your output format matches with one in the example.
+java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at search.Main.main(Main.java:25)
 
 Please find below the output of your program during this failed test.
 Note that the '&gt;' character indicates the beginning of the input line.
@@ -13,7 +14,13 @@ Note that the '&gt;' character indicates the beginning of the input line.
 
 &gt;3
 &gt;john smith smith@gmail.com
-Not found
+&gt;John lock john_lock@somecompany.com
+&gt;help me iamaprogrammer@gmail.com
+&gt;4
+&gt;john
+&gt;Somecompany
+&gt;@
+&gt;this text will definitely be no match
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.hyperskill.hstest.v6.stage.BaseStageTest.start(BaseStageTest.java:172)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
@@ -70,12 +77,19 @@ Not found
 Start test 1?[0m
 >1
 >John
-Not found
+>1
+>this text will definitely be no match
 ?[1;31m
 Start test 2?[0m
 >3
 >john smith smith@gmail.com
-Not found
+>John lock john_lock@somecompany.com
+>help me iamaprogrammer@gmail.com
+>4
+>john
+>Somecompany
+>@
+>this text will definitely be no match
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

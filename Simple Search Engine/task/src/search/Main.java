@@ -20,19 +20,27 @@ public class Main {
 
         for (int i=0 ; i<nq ; i++){
             String word = sc2.nextLine();
-                List<String> list = search(array,word);
+            String contact ;
+                for (int j = 0 ; j<array.length ; j++) {
+                    contact = search(array[i], word);
+                }
         }
     }
 
-    private static List<String> search(String[] a,String w) {
-        List<String> list = new ArrayList<>();
+    private static String search(String a,String w) {
 
-        for (int i = 0 ; i<a.length ; i++){
-            String[] arrOfStr = a[i].split(" ", -2);
+        String result = "unknown\n" +
+                "No matching people found." ;
+        String[] arrOfStr = a.split(" ");
 
-        }
+            for (int i = 0 ; i<arrOfStr.length ; i++){
+                if(arrOfStr[i].equalsIgnoreCase(w) || arrOfStr[i].contains("@")){
+                  result = "Found people:\n"+a ;
+                    break;
+                }
+            }
 
-        return null ;
+        return result ;
     }
 }
 
