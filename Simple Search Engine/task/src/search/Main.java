@@ -1,46 +1,45 @@
 package search;
-import java.util.*;
-import java.util.stream.Stream;
+
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
 
-        Scanner sc = new Scanner(System.in);
-        Scanner sc1 = new Scanner(System.in);
-        Scanner sc2 = new Scanner(System.in);
+        System.out.println("Enter the number of people:");
+        int numPeople = Integer.parseInt(scanner.nextLine());
 
-        int np = sc.nextInt();
-        String [] array = new String[np];
+        System.out.println("Enter all people:");
+        String[] data = readPeople(scanner, numPeople);
 
-        for (int i=0 ; i<np ; i++){
-            array[i] = sc1.nextLine();
-        }
+        System.out.println("\nEnter the number of search queries:");
+        int numOfQueries = Integer.parseInt(scanner.nextLine());
 
-        int nq = sc.nextInt();
+        for (int i = 0; i < numOfQueries; i++) {
+            System.out.println("\nEnter data to search people:");
+            String query = scanner.nextLine().toLowerCase().trim();
 
-        for (int i=0 ; i<nq ; i++){
-            String word = sc2.nextLine();
-            String contact ;
-                for (int j = 0 ; j<array.length ; j++) {
-                    contact = search(array[i], word);
-                }
-        }
-    }
+            System.out.println("\nFound people:");
+            boolean found = false;
 
-    private static String search(String a,String w) {
-
-        String result = "unknown\n" +
-                "No matching people found." ;
-        String[] arrOfStr = a.split(" ");
-
-            for (int i = 0 ; i<arrOfStr.length ; i++){
-                if(arrOfStr[i].equalsIgnoreCase(w) || arrOfStr[i].contains("@")){
-                  result = "Found people:\n"+a ;
-                    break;
+            for (String lineWithData : data) {
+                if (lineWithData.toLowerCase().contains(query)) {
+                    System.out.println(lineWithData);
+                    found = true;
                 }
             }
 
-        return result ;
+            if (!found) {
+                System.out.println("Not found");
+            }
+        }
+    }
+
+    public static String[] readPeople(Scanner sc, int numOfPeople) {
+        String[] allPeople = new String[numOfPeople];
+        for (int i = 0; i < numOfPeople; i++) {
+            allPeople[i] = sc.nextLine();
+        }
+        return allPeople;
     }
 }
-

@@ -2,6 +2,22 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Expand-the-search-Simple_Search_Engine-task_main" target="11" />
+      <module name="Expand-the-search-Simple_Search_Engine-task_test" target="11" />
+      <module name="Problems-A_simple_calculator_main" target="11" />
+      <module name="Problems-A_simple_calculator_test" target="11" />
+      <module name="Problems-Direction_main" target="11" />
+      <module name="Problems-Direction_test" target="11" />
+      <module name="Problems-Floor-space_of_the_room_main" target="11" />
+      <module name="Problems-Floor-space_of_the_room_test" target="11" />
+      <module name="Problems-Geometric_cube_main" target="11" />
+      <module name="Problems-Geometric_cube_test" target="11" />
+      <module name="Problems-Shape_main" target="11" />
+      <module name="Problems-Shape_test" target="11" />
+      <module name="Problems-Test_learners_main" target="11" />
+      <module name="Problems-Test_learners_test" target="11" />
+      <module name="Problems-User_main" target="11" />
+      <module name="Problems-User_test" target="11" />
       <module name="Simple_Search_Engine-task_main" target="11" />
       <module name="Simple_Search_Engine-task_test" target="11" />
       <module name="util_main" target="11" />
