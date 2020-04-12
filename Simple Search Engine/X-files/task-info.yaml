@@ -290,6 +290,9 @@ files:
     \      System.out.println(pos);\n        else\n           System.out.println(\"\
     Not found\");\n    }\n}\n\n"
   learner_created: false
+- name: src/search/file.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/66/stages/357/implement
-status: Unchecked
+status: Failed
 record: -1

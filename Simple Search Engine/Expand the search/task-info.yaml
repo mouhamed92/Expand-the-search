@@ -159,6 +159,9 @@ files:
     \      System.out.println(pos);\n        else\n           System.out.println(\"\
     Not found\");\n    }\n}\n\n"
   learner_created: false
+- name: src/search/Test.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/66/stages/355/implement
 status: Solved
 record: 2

@@ -6,16 +6,34 @@
       <module name="Expand-the-search-Simple_Search_Engine-task_test" target="11" />
       <module name="Problems-A_simple_calculator_main" target="11" />
       <module name="Problems-A_simple_calculator_test" target="11" />
+      <module name="Problems-Army_main" target="11" />
+      <module name="Problems-Army_test" target="11" />
+      <module name="Problems-Binary_search_main" target="11" />
+      <module name="Problems-Binary_search_test" target="11" />
+      <module name="Problems-Catching_some_exceptions_main" target="11" />
+      <module name="Problems-Catching_some_exceptions_test" target="11" />
+      <module name="Problems-Converting_and_multiplying__1__main" target="11" />
+      <module name="Problems-Converting_and_multiplying__1__test" target="11" />
+      <module name="Problems-Converting_and_multiplying__2__main" target="11" />
+      <module name="Problems-Converting_and_multiplying__2__test" target="11" />
+      <module name="Problems-Converting_and_multiplying_main" target="11" />
+      <module name="Problems-Converting_and_multiplying_test" target="11" />
       <module name="Problems-Direction_main" target="11" />
       <module name="Problems-Direction_test" target="11" />
       <module name="Problems-Floor-space_of_the_room_main" target="11" />
       <module name="Problems-Floor-space_of_the_room_test" target="11" />
       <module name="Problems-Geometric_cube_main" target="11" />
       <module name="Problems-Geometric_cube_test" target="11" />
+      <module name="Problems-Getting_the_fullname_main" target="11" />
+      <module name="Problems-Getting_the_fullname_test" target="11" />
       <module name="Problems-Shape_main" target="11" />
       <module name="Problems-Shape_test" target="11" />
+      <module name="Problems-String_to_double_conversion_main" target="11" />
+      <module name="Problems-String_to_double_conversion_test" target="11" />
       <module name="Problems-Test_learners_main" target="11" />
       <module name="Problems-Test_learners_test" target="11" />
+      <module name="Problems-Two_numbers_never_occur_to_each_other_main" target="11" />
+      <module name="Problems-Two_numbers_never_occur_to_each_other_test" target="11" />
       <module name="Problems-User_main" target="11" />
       <module name="Problems-User_test" target="11" />
       <module name="Simple_Search_Engine-task_main" target="11" />

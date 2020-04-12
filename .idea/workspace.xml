@@ -2,42 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="490fcaf6-cd71-48bb-8593-4e2bde2592d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Expand-the-search/Simple Search Engine/task/Expand-the-search-Simple_Search_Engine-task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Expand-the-search/Simple Search Engine/task/Expand-the-search-Simple_Search_Engine-task_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Expand-the-search/Simple Search Engine/task/Expand-the-search-Simple_Search_Engine-task_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Problems-Shape.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Problems-Shape_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Problems-Shape_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/User/Problems-User.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/User/Problems-User_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/User/Problems-User_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/A simple calculator/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/A simple calculator/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Geometric cube/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Geometric cube/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Shape/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Shape/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Test learners/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Test learners/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Test learners/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/User/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/User/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Problems-Binary_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Problems-Binary_search_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Problems-Binary_search_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Catching some exceptions/Problems-Catching_some_exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Catching some exceptions/Problems-Catching_some_exceptions_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Catching some exceptions/Problems-Catching_some_exceptions_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying (1)/Problems-Converting_and_multiplying__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying (1)/Problems-Converting_and_multiplying__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying (1)/Problems-Converting_and_multiplying__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying (2)/Problems-Converting_and_multiplying__2_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying (2)/Problems-Converting_and_multiplying__2__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying (2)/Problems-Converting_and_multiplying__2__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Problems-Converting_and_multiplying_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Problems-Getting_the_fullname_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/String to double conversion/Problems-String_to_double_conversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/String to double conversion/Problems-String_to_double_conversion_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/String to double conversion/Problems-String_to_double_conversion_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur to each other/Problems-Two_numbers_never_occur_to_each_other.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur to each other/Problems-Two_numbers_never_occur_to_each_other_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur to each other/Problems-Two_numbers_never_occur_to_each_other_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Army/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Army/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Binary search/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Binary search/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Catching some exceptions/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Catching some exceptions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Converting and multiplying (1)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Converting and multiplying (1)/src/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Converting and multiplying (1)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Converting and multiplying (2)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Converting and multiplying (2)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Converting and multiplying/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Converting and multiplying/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Getting the fullname/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/String to double conversion/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Two numbers never occur to each other/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Two numbers never occur to each other/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Search Engine/task/src/search/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
@@ -45,23 +69,68 @@
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Expand-the-search/Simple Search Engine/task/Expand-the-search-Simple_Search_Engine-task_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Expand-the-search/Simple Search Engine/task/Expand-the-search-Simple_Search_Engine-task_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems-A_simple_calculator_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Geometric cube/Problems-Geometric_cube_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Geometric cube/Problems-Geometric_cube_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Problems-Shape_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Problems-Shape_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/User/Problems-User_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/User/Problems-User_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine-task_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Search Engine/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Direction/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Direction/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Floor-space of the room/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Floor-space of the room/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Shape/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Shape/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/Expand the search/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/Expand the search/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/User menu/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/User menu/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/X-files/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/X-files/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/build/classes/java/main/search/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/build/classes/java/main/search/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/build/classes/java/test/SimpleSearchEngineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/build/classes/java/test/SimpleSearchEngineTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/build/classes/java/test/TestClue.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/build/classes/java/test/TestClue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/build/reports/tests/test/classes/SimpleSearchEngineTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/build/reports/tests/test/classes/SimpleSearchEngineTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/build/test-results/test/TEST-SimpleSearchEngineTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/build/test-results/test/TEST-SimpleSearchEngineTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/out/production/classes/search/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/out/production/classes/search/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/src/search/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/src/search/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Search Engine/task/test/SimpleSearchEngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Search Engine/task/test/SimpleSearchEngineTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,20 +148,28 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todoapp" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../secservice" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-A_simple_calculator_main" />
+      <module name="Problems-Floor-space_of_the_room_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Floor-space_of_the_room_main" />
+      <module name="Problems-Converting_and_multiplying__1__main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Converting_and_multiplying__2__main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,11 +187,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.Test" />
+      <module name="Simple_Search_Engine-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +232,14 @@
       <workItem from="1586096600137" duration="45000" />
       <workItem from="1586096657445" duration="5105000" />
       <workItem from="1586200679775" duration="135000" />
-      <workItem from="1586247928103" duration="1628000" />
+      <workItem from="1586247928103" duration="10319000" />
+      <workItem from="1586275277022" duration="2216000" />
+      <workItem from="1586287316213" duration="125000" />
+      <workItem from="1586332240121" duration="3824000" />
+      <workItem from="1586449407897" duration="2893000" />
+      <workItem from="1586508722754" duration="8813000" />
+      <workItem from="1586600263973" duration="3991000" />
+      <workItem from="1586683266846" duration="4774000" />
     </task>
     <servers />
   </component>
@@ -152,30 +251,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586100930151" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586200855745">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586377847508">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586200855745" />
-    <state width="1323" height="236" key="GridCell.Tab.0.bottom" timestamp="1586249329316">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586377847508" />
+    <state width="1323" height="269" key="GridCell.Tab.0.bottom" timestamp="1586688157504">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586120560879" />
-    <state width="1323" height="236" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586249329316" />
-    <state width="1323" height="236" key="GridCell.Tab.0.center" timestamp="1586249329316">
+    <state width="1323" height="269" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1586603210301" />
+    <state width="1323" height="236" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586377849510" />
+    <state width="1323" height="269" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586688157504" />
+    <state width="1323" height="269" key="GridCell.Tab.0.center" timestamp="1586688157504">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586120560878" />
-    <state width="1323" height="236" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586249329316" />
-    <state width="1323" height="236" key="GridCell.Tab.0.left" timestamp="1586249329315">
+    <state width="1323" height="269" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1586603210301" />
+    <state width="1323" height="236" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586377849508" />
+    <state width="1323" height="269" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586688157504" />
+    <state width="1323" height="269" key="GridCell.Tab.0.left" timestamp="1586688157504">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586120560877" />
-    <state width="1323" height="236" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586249329315" />
-    <state width="1323" height="236" key="GridCell.Tab.0.right" timestamp="1586249329316">
+    <state width="1323" height="269" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1586603210301" />
+    <state width="1323" height="236" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586377849508" />
+    <state width="1323" height="269" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586688157504" />
+    <state width="1323" height="269" key="GridCell.Tab.0.right" timestamp="1586688157504">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="236" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586120560879" />
-    <state width="1323" height="236" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586249329316" />
+    <state width="1323" height="269" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1586603210301" />
+    <state width="1323" height="236" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586377849509" />
+    <state width="1323" height="269" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586688157504" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1585864239912">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -192,14 +295,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1585864239912" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586200687836">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586683263071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586200687836" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585757246872" />
-    <state x="65" y="65" key="new project wizard" timestamp="1585757532239">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1586600665039" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586287333003" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586683263071" />
+    <state x="413" y="129" key="extract.method.dialog" timestamp="1586257970047">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="413" y="129" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1586257970047" />
+    <state x="65" y="65" key="new project wizard" timestamp="1586287455096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="65" key="new project wizard/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586287455096" />
     <state x="65" y="65" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585757532239" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1586098876709">
       <screen x="0" y="0" width="1366" height="728" />
